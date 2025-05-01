@@ -1,5 +1,5 @@
 import requests
-
+#yangi o'zgarish
 BASE_URL = "https://jsonplaceholder.typicode.com/posts"
 
 def get_posts():
